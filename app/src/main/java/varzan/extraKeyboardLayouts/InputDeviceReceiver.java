@@ -1,4 +1,4 @@
-package varzan.extraKeyboardLayouts;
+package efreak.extraKeyboardLayouts;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
