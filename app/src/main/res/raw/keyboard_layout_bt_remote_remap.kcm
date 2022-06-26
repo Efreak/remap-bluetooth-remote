@@ -1,0 +1,25 @@
+type FULL
+
+key DPAD_CENTER {
+    base:                               fallback MEDIA_PLAY_PAUSE
+}
+key DPAD_UP {
+    base:                               fallback VOLUME_UP
+}
+key DPAD_DOWN {
+    base:                               fallback VOLUME_DOWN
+}
+key DPAD_LEFT {
+    base:                               fallback MEDIA_PREVIOUS
+}
+key DPAD_RIGHT {
+    base:                               fallback MEDIA_NEXT
+}
+
+# key names
+#
+# DPAD_UP         MEDIA_NEXT           VOLUME_UP       PAGE_UP
+# DPAD_DOWN       MEDIA_PREVIOUS       VOLUME_DOWN     PAGE_DOWN
+# DPAD_CENTER     MEDIA_PLAY_PAUSE     VOLUME_MUTE     HOME
+# DPAD_LEFT       MENU                                 
+# DPAD_RIGHT      BACK                                 
